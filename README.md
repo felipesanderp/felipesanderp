@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Felipe and I'm a developer student.
+
+- 🌱 Currently learning ReactJS
+
 <!--
 **felipesanderp/felipesanderp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
