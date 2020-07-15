@@ -5,8 +5,8 @@ My name is Felipe and I'm a front-end student.
 - 🌱 Currently learning ReactJS
 
 - 📫 How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
-  - [![Twitter Badge](https://img.shields.io/badge/-@Fe__SPanisson-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Fe_SPanisson)](https://twitter.com/Fe_SPanisson)
+  [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-sander-panisson-641195161/)](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
+  [![Twitter Badge](https://img.shields.io/badge/-@felipesanderp-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipesander)](https://twitter.com/felipesanderp)
 
 <!--
 **felipesanderp/felipesanderp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
