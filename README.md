@@ -6,6 +6,7 @@ My name is Felipe and I'm a front-end student.
 
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
+  [![Twitter Badge](https://img.shields.io/badge/-@fes_panisson-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fes_panisson)](https://twitter.com/fes_panisson)
 
 <!--
 **felipesanderp/felipesanderp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
