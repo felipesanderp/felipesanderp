@@ -2,7 +2,7 @@
 
 My name is Felipe and I'm a front-end student.
 
-- 🌱 Currently learning ReactJS
+- 🌱 Currently learning ReactJS, React Native & NodeJS
 
 - 📫 How to reach me:
 
