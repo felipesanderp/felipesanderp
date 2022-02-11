@@ -15,7 +15,7 @@ Meu nome é Felipe, tenho 24 anos, moro atualmente na região metropolitana de C
 
     [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferlipesander/)](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
 
-![Snake animation](https://github.com/felipesanderp/feipesanderp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/felipesanderp/felipesanderp/blob/output/github-contribution-grid-snake.svg)
 
   
 <!--
