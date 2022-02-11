@@ -1,14 +1,21 @@
-### Hi there 👋
+### Fala devs 👋
 
-My name is Felipe and I'm a front-end student.
+Meu nome é Felipe, tenho 24 anos, moro atualmente na região metropolitana de Curitiba/PR e sou iniciante no universo de progamação.
 
-- 🌱 Currently learning ReactJS, React Native & NodeJS
+<div>
+    <a href="https://github.com/felipesanderp" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanderp&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesanderp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-- 📫 How to reach me:
+- 🌱 Atualmente aprendendo ReactJS & NodeJS
+
+- 📫 Como me contatar:
 
     [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-sander-panisson-641195161/)](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
-    [![Twitter Badge](https://img.shields.io/badge/-@felipesanderp-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipesander)](https://twitter.com/felipesanderp)
+    
 
+  
 <!--
 **felipesanderp/felipesanderp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
