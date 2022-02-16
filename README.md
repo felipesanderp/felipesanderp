@@ -1,6 +1,12 @@
 ### Fala devs 👋
 
-Meu nome é Felipe, tenho 24 anos, moro atualmente na região metropolitana de Curitiba/PR e sou iniciante no universo de progamação.
+Meu nome é Felipe, tenho 24 anos, moro atualmente na região metropolitana de Curitiba/PR. Trabalho com T.I a 4 anos e pretendo entrar no universo da programação.
+
+- 🌱 Atualmente aprendendo ReactJS & NodeJS
+
+- 📫 Como me contatar:
+
+    [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferlipesander/)](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
 
 <div>
   <a href="https://github.com/felipesanderp">
@@ -9,13 +15,7 @@ Meu nome é Felipe, tenho 24 anos, moro atualmente na região metropolitana de C
   <a/>
 </div>
 
-- 🌱 Atualmente aprendendo ReactJS & NodeJS
-
-- 📫 Como me contatar:
-
-    [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferlipesander/)](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
-
-![Snake animation](https://github.com/felipesanderp/felipesanderp/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/felipesanderp/felipesanderp/blob/output/github-contribution-grid-snake.svg) -->
 
   
 <!--
