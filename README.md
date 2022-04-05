@@ -12,7 +12,7 @@ Meu nome é Felipe, tenho 24 anos, moro atualmente na região metropolitana de C
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesanderp&show_icons=true&theme=tokyonight)
 </span> -->
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesanderp&show_icons=true&theme=tokyonight)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesanderp&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanderp&layout=compact&theme=tokyonight)](https://github.com/felipesander/github-readme-stats)
 
 <!-- ![Snake animation](https://github.com/felipesanderp/felipesanderp/blob/output/github-contribution-grid-snake.svg) -->
