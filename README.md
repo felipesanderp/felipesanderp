@@ -6,7 +6,7 @@ Meu nome é Felipe, tenho 24 anos, moro atualmente na região metropolitana de C
 
 - 📫 Como me contatar:
 
-    [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferlipesander/)](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferlipesander/)](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
 
 <!-- <span style="height ">
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesanderp&show_icons=true&theme=tokyonight)
