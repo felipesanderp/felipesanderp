@@ -8,7 +8,7 @@ Meu nome é Felipe, tenho 25 anos, moro atualmente na região metropolitana de C
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferlipesander/)](https://www.linkedin.com/in/felipe-sander-panisson-641195161/)
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesanderp&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanderp&layout=compact&theme=tokyonight)](https://github.com/felipesander/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesanderp&layout=compact&theme=tokyonight)](https://github.com/felipesander/github-readme-stats)
 
 <!--
 **felipesanderp/felipesanderp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
