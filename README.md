@@ -1,6 +1,6 @@
 ### Fala devs 👋
 
-Meu nome é Felipe, tenho 27 anos, moro atualmente na região metropolitana de Curitiba/PR. Trabalho com T.I a 4 anos e pretendo entrar no universo da programação.
+Meu nome é Felipe, tenho 27 anos, moro atualmente na região metropolitana de Curitiba/PR. Trabalho com T.I a 7 anos e pretendo entrar no universo da programação.
 
 - 🌱 Atualmente aprendendo ReactJS & NodeJS
 
